@@ -7,10 +7,9 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#00BFFF">Novaka Saputra</span></h1>
 <h3 align="center">💡 Software Engineer | 🎬 Video Editor | 🎨 Visual Designer</h3>
 
-<!-- Quote -->
 <p align="center"><em>Blending code, motion, and design into digital stories.</em></p>
 
-<p align="center">┈ ┈ ┈ ✦ ┈ ┈ ┈</p>
+<br/>
 
 ### ✨ About Me
 
@@ -20,7 +19,7 @@
 - 🌱 Passionate about blending **tech, art, and storytelling**
 - 📫 Reach me at: [your-email@example.com](mailto:your-email@example.com)
 
-<p align="center">┈ ┈ ┈ ✦ ┈ ┈ ┈</p>
+<br/>
 
 ### 📊 GitHub Stats
 
@@ -30,57 +29,42 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=novaka-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" />
 </div>
 
-<p align="center">┈ ┈ ┈ ✦ ┈ ┈ ┈</p>
+<br/>
 
-<img align="right" height="150" src="https://media.tenor.com/s8uZEeyOAeQAAAAi/strawhats-one-piece.gif" />
+<hr/>
 
 ### 🛠️ Tech Stack & Tools
 
+<img align="right" height="150" src="https://media.tenor.com/s8uZEeyOAeQAAAAi/strawhats-one-piece.gif" />
+
 <div align="center">
+  <!-- Devicons -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="Vim" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="30" alt="Fedora" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="30" alt="Red Hat" />
-  <img width="12" />
+  <!-- Skillicons -->
   <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="Tailwind CSS" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=ae" height="30" alt="After Effects" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="30" alt="Photoshop" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=pr" height="30" alt="Premiere Pro" />
 </div>
 
-<p align="center">┈ ┈ ┈ ✦ ┈ ┈ ┈</p>
 
-### 🌐 Connect with Me
 
-<div align="left">
+<div align="center">
   <a href="https://www.youtube.com/@NovakaSaputra" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
   <a href="https://www.instagram.com/vakaa.exe/profilecard/?igsh=MTFzZWllMnpxc3d6OA==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" />
@@ -95,8 +79,8 @@
   <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" />
 </div>
 
-<p align="center">┈ ┈ ┈ ✦ ┈ ┈ ┈</p>
+<br/><br/>
 
-<br clear="both" />
-
-<img src="https://raw.githubusercontent.com/novaka-dev/novaka-dev/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/novaka-dev/novaka-dev/output/snake.svg" alt="Snake animation" />
+</p>
