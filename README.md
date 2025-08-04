@@ -10,7 +10,7 @@
 <!-- Quote -->
 <p align="center"><em>Blending code, motion, and design into digital stories.</em></p>
 
-<br/>
+<p align="center">┈ ┈ ┈ ✦ ┈ ┈ ┈</p>
 
 ### ✨ About Me
 
@@ -20,6 +20,7 @@
 - 🌱 Passionate about blending **tech, art, and storytelling**
 - 📫 Reach me at: [your-email@example.com](mailto:your-email@example.com)
 
+<p align="center">┈ ┈ ┈ ✦ ┈ ┈ ┈</p>
 
 ### 📊 GitHub Stats
 
@@ -29,14 +30,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=novaka-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" />
 </div>
 
-###
+<p align="center">┈ ┈ ┈ ✦ ┈ ┈ ┈</p>
 
 <img align="right" height="150" src="https://media.tenor.com/s8uZEeyOAeQAAAAi/strawhats-one-piece.gif" />
 
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <!-- Devicons -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
@@ -65,7 +65,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="30" alt="Red Hat" />
   <img width="12" />
-  <!-- Skillicons -->
   <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="Tailwind CSS" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ae" height="30" alt="After Effects" />
@@ -75,7 +74,7 @@
   <img src="https://skillicons.dev/icons?i=pr" height="30" alt="Premiere Pro" />
 </div>
 
-###
+<p align="center">┈ ┈ ┈ ✦ ┈ ┈ ┈</p>
 
 ### 🌐 Connect with Me
 
@@ -96,7 +95,7 @@
   <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" />
 </div>
 
-###
+<p align="center">┈ ┈ ┈ ✦ ┈ ┈ ┈</p>
 
 <br clear="both" />
 
