@@ -74,6 +74,10 @@ No Activity Tracked This Week
 
 <!--START_SECTION:waka-simple-->
 
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-simple-->
 
 ### 📊 GitHub Stats
