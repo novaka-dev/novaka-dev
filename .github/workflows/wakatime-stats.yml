@@ -2,7 +2,7 @@ name: wakatime-stats
 
 on:
   schedule:
-    - cron: "0 6 * * *" # setiap jam 13:00 WIB
+    - cron: '0 6 * * *' # setiap jam 13:00 WIB
   workflow_dispatch:
 
 jobs:

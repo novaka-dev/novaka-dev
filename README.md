@@ -40,10 +40,6 @@ Total Time: 0 secs
 No activity tracked
 ```
 
-<!--END_SECTION:waka-->
-
-<!--START_SECTION:waka-simple-->
-<!--END_SECTION:waka-simple-->
 
 <!--START_SECTION:waka-weekly-->
 <!--END_SECTION:waka-weekly-->
