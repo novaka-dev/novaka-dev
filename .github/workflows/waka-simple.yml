@@ -3,7 +3,7 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: '30 14 * * *' # 21:30 WIB (12:30 UTC)
+    - cron: "30 14 * * *" # 21:30 WIB (12:30 UTC)
   workflow_dispatch:
 
 jobs:
@@ -11,6 +11,8 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
+      - name: Delay to avoid conflicts
+        run: sleep 60
       - uses: guilyx/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
