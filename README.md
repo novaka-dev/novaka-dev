@@ -29,6 +29,7 @@
 
 <br/>
 
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -40,6 +41,14 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
+
+<!--START_SECTION:waka-simple-->
+<!--END_SECTION:waka-simple-->
+
+<!--START_SECTION:waka-weekly-->
+<!--END_SECTION:waka-weekly-->
+
+
 
 ### 📊 GitHub Stats
 
