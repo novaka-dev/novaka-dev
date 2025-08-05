@@ -28,75 +28,78 @@
 <br/>
 
 <!--START_SECTION:waka-->
-
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.0%20million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data**
+**🐱 My GitHub Data** 
 
-> 📦 223.1 kB Used in GitHub's Storage
- >
-> 🏆 112 Contributions in the Year 2025
- >
+> 📦 223.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 108 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
->
-> 📜 9 Public Repositories
->
-> 🔑 8 Private Repositories
->
-> **I'm an Early 🐤**
+ > 
+> 📜 9 Public Repositories 
+ > 
+> 🔑 8 Private Repositories 
+ > 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning                41 commits          █████░░░░░░░░░░░░░░░░░░░░   20.10 %
-🌆 Daytime                86 commits          ███████████░░░░░░░░░░░░░░   42.16 %
-🌃 Evening                76 commits          █████████░░░░░░░░░░░░░░░░   37.25 %
-🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
-🌞 Morning                41 commits          █████░░░░░░░░░░░░░░░░░░░░   19.71 %
-🌆 Daytime                86 commits          ██████████░░░░░░░░░░░░░░░   41.35 %
-🌃 Evening                80 commits          ██████████░░░░░░░░░░░░░░░   38.46 %
-🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+🌞 Morning                41 commits          █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
+🌆 Daytime                86 commits          ██████████░░░░░░░░░░░░░░░   40.95 % 
+🌃 Evening                82 commits          ██████████░░░░░░░░░░░░░░░   39.05 % 
+🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 ```
-📅 **I'm Most Productive on Monday**
+📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   50 commits          ██████░░░░░░░░░░░░░░░░░░░   24.04 %
-Tuesday                  33 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.87 %
-Wednesday                26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 %
-Thursday                 30 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.42 %
-Friday                   20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 %
-Saturday                 18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 %
-Sunday                   31 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.90 %
+Monday                   50 commits          ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
+Tuesday                  35 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Wednesday                26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+Thursday                 30 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Friday                   20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Saturday                 18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+Sunday                   31 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
 ```
 
-📊 **This Week I Spent My Time On**
+
+📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Jakarta
 
-💬 Programming Languages:
-💬 Programming Languages:
+💬 Programming Languages: 
 No Activity Tracked This Week
 
-🔥 Editors:
+🔥 Editors: 
 No Activity Tracked This Week
 
-🐱‍💻 Projects:
-🐱‍💻 Projects:
+🐱‍💻 Projects: 
 No Activity Tracked This Week
 
-💻 Operating System:
+💻 Operating System: 
 No Activity Tracked This Week
 ```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               8 repos             ██████████████████░░░░░░░   72.73 % 
+JavaScript               3 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+```
+
+
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/novaka-dev/novaka-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 05/08/2025 15:12:52 UTC
+ Last Updated on 05/08/2025 15:34:25 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
