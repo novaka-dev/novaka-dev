@@ -5,10 +5,8 @@
 <!-- Nama & Role -->
 <h1 align="center" id="macropower-title">👋 Hello there! I'm Novaka Saputra</h1>
 <p align="center">
-  <a href="https://github.com/novaka-dev">
-    <img src="https://komarev.com/ghpvc/?username=novaka-dev" alt="page views" />
-  </a>
-    <a href="https://yourwebsite.com">
+
+  <a href="https://yourwebsite.com">
     <img alt="Website" src="https://img.shields.io/badge/Website-up-brightgreen">
   </a>
    <a href="https://stackoverflow.com/users/12345678">
@@ -30,60 +28,66 @@
 <br/>
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.0%20million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 223.1 kB Used in GitHub's Storage 
- > 
+> 📦 223.1 kB Used in GitHub's Storage
+ >
 > 🏆 112 Contributions in the Year 2025
- > 
+ >
 > 🚫 Not Opted to Hire
- > 
-> 📜 9 Public Repositories 
- > 
-> 🔑 8 Private Repositories 
- > 
-**I'm an Early 🐤** 
+>
+> 📜 9 Public Repositories
+>
+> 🔑 8 Private Repositories
+>
+> **I'm an Early 🐤**
 
 ```text
-🌞 Morning                41 commits          █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
-🌆 Daytime                86 commits          ██████████░░░░░░░░░░░░░░░   41.35 % 
-🌃 Evening                80 commits          ██████████░░░░░░░░░░░░░░░   38.46 % 
-🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+🌞 Morning                41 commits          █████░░░░░░░░░░░░░░░░░░░░   20.10 %
+🌆 Daytime                86 commits          ███████████░░░░░░░░░░░░░░   42.16 %
+🌃 Evening                76 commits          █████████░░░░░░░░░░░░░░░░   37.25 %
+🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+🌞 Morning                41 commits          █████░░░░░░░░░░░░░░░░░░░░   19.71 %
+🌆 Daytime                86 commits          ██████████░░░░░░░░░░░░░░░   41.35 %
+🌃 Evening                80 commits          ██████████░░░░░░░░░░░░░░░   38.46 %
+🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
-📅 **I'm Most Productive on Monday** 
+📅 **I'm Most Productive on Monday**
 
 ```text
-Monday                   50 commits          ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
-Tuesday                  33 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-Wednesday                26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Thursday                 30 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-Friday                   20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-Saturday                 18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-Sunday                   31 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+Monday                   50 commits          ██████░░░░░░░░░░░░░░░░░░░   24.04 %
+Tuesday                  33 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.87 %
+Wednesday                26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 %
+Thursday                 30 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.42 %
+Friday                   20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 %
+Saturday                 18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 %
+Sunday                   31 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.90 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Jakarta
 
-💬 Programming Languages: 
+💬 Programming Languages:
+💬 Programming Languages:
 No Activity Tracked This Week
 
-🔥 Editors: 
+🔥 Editors:
 No Activity Tracked This Week
 
-🐱‍💻 Projects: 
+🐱‍💻 Projects:
+🐱‍💻 Projects:
 No Activity Tracked This Week
 
-💻 Operating System: 
+💻 Operating System:
 No Activity Tracked This Week
 ```
 
