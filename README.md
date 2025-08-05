@@ -1,25 +1,36 @@
-<!-- Banner -->
 <p align="center">
   <img src="img/banner-anime-zenin2.png" alt="Novaka Saputra Banner" style="border-radius: 10px;" />
 </p>
 
 <!-- Nama & Role -->
-<h1 align="center">👋 Hi, I'm <span style="color:#00BFFF">Novaka Saputra</span></h1>
+<h1 align="center" id="macropower-title">👋 Hello there! I'm Novaka Saputra</h1>
+<p align="center">
+  <a href="https://github.com/novaka-dev">
+    <img src="https://komarev.com/ghpvc/?username=novaka-dev" alt="page views" />
+  </a>
+    <a href="https://yourwebsite.com">
+    <img alt="Website" src="https://img.shields.io/badge/Website-up-brightgreen">
+  </a>
+   <a href="https://stackoverflow.com/users/12345678">
+    <img alt="StackOverflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/12345678?color=orange&label=reputation&logo=stackoverflow">
+  </a>
+  <a href="https://www.youtube.com/@NovakaSaputra">
+     <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCJpDcQ-umh4csLARWZ7cwMw?style=flat&logo=youtube">
+  </a>
+  <a href="https://github.com/novaka-dev?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/novaka-dev?style=flat&logo=github">
+  </a>
+   <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
+    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
+  </a>
+</p>
 <h3 align="center">💡 Software Engineer | 🎬 Video Editor | 🎨 Visual Designer</h3>
-
 <p align="center"><em>Blending code, motion, and design into digital stories.</em></p>
 
 <br/>
 
-### ✨ About Me
-
-- 💻 I’m a Software Engineer with a creative soul 🎨
-- 🎬 I love telling stories through video & visuals
-- 🚀 Currently exploring **Next.js, motion UI, and cinematic editing workflows**
-- 🌱 Passionate about blending **tech, art, and storytelling**
-- 📫 Reach me at: [your-email@example.com](mailto:your-email@example.com)
-
-<br/>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### 📊 GitHub Stats
 
@@ -60,7 +71,6 @@
   <img src="https://skillicons.dev/icons?i=pr" height="30" alt="Premiere Pro" />
 </div>
 
-
 <br/>
 <div align="center">
   <a href="https://www.youtube.com/@NovakaSaputra" target="_blank">
@@ -82,7 +92,7 @@
 <br/>
 
 ## Repository Stats
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/novaka-dev/novaka-dev/output/snake.svg" alt="Snake animation" />
 </p>
-
