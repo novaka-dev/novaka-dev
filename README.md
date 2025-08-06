@@ -38,7 +38,7 @@
 - ⚡ &nbsp;Fun fact: I turn debug logs into storyboards 🎥💻
 > 🎯 “Creative coding isn’t just about logic — it’s about emotion and experience too.”
 
----
+
 
 
 <h2 align="left">Favorite Tech</h2>
@@ -76,7 +76,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
 
-<br/>
+##### &nbsp;
+
 <div align="left">
   <a href="https://www.youtube.com/@NovakaSaputra" target="_blank">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" />
@@ -93,7 +94,7 @@
   </a>
 </div>
 
-### &nbsp;
+# &nbsp;
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
