@@ -183,7 +183,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 04 August 2025 - To: 16 August 2025
+From: 04 August 2025 - To: 17 August 2025
 
 Total Time: 15 hrs 56 mins
 
