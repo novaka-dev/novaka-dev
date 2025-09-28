@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="img/banner-anime-zenin2.png" alt="Novaka Saputra Banner" style="border-radius: 10px;" />
-</p>
 
 <!-- Nama & Role -->
 <h1 align="center" id="macropower-title">👋 Hello there! I'm Novaka Saputra</h1>
