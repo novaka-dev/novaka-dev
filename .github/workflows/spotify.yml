@@ -2,7 +2,7 @@ name: Update Spotify Now Playing
 
 on:
   schedule:
-    - cron: "*/10 * * * *" # setiap 10 menit (ubah kalau perlu)
+    - cron: "*/10 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -13,7 +13,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Update Spotify status
-        uses: kittinan/spotify-github-profile@main
+        uses: kittinan/spotify-github-profile@master
         with:
           client_id: ${{ secrets.SPOTIFY_CLIENT_ID }}
           client_secret: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
