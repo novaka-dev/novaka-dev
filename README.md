@@ -37,7 +37,7 @@
 - ⚡ &nbsp;Fun fact: I turn debug logs into storyboards 🎥💻
 > 🎯 “Creative coding isn’t just about logic — it’s about emotion and experience too.”
 
-# &nbsp;
+<br/>
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
