@@ -28,13 +28,7 @@
 <!-- spacer -->
 ### &nbsp;
 
-
 <a href="https://discord.com/users/1121703305450635294"><img src="https://lanyard.cnrad.dev/api/1121703305450635294?showDisplayName=true" align="right" width="300" /></a>
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31slu3q7kkwtwbh4kbijqckhbili&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true">
-  </a>
-</p>
 - 🛠️ &nbsp;Currently building: **web-based apps** with `Next.js`, `Express`, and `PostgreSQL`
 - 🌱 &nbsp;Learning: `Docker`, `Machine Learning APIs`, and `Motion Graphics for the Web`
 - 🧠 &nbsp;Topics I enjoy: `Next JS`, `Tailwind`, `Prisma`, `Storytelling`, and `Design Systems`
@@ -43,8 +37,11 @@
 - ⚡ &nbsp;Fun fact: I turn debug logs into storyboards 🎥💻
 > 🎯 “Creative coding isn’t just about logic — it’s about emotion and experience too.”
 
-
-
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31slu3q7kkwtwbh4kbijqckhbili&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true">
+  </a>
+</p>
 
 <h2 align="left">Favorite Tech</h2>
 
