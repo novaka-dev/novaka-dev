@@ -26,22 +26,24 @@
 <p align="center"><em>Blending code, motion, and design into digital stories.</em></p>
 
 <!-- spacer -->
+
 ### &nbsp;
 
 <a href="https://discord.com/users/1121703305450635294"><img src="https://lanyard.cnrad.dev/api/1121703305450635294?showDisplayName=true" align="right" width="300" /></a>
+
 - 🛠️ &nbsp;Currently building: **web-based apps** with `Next.js`, `Express`, and `PostgreSQL`
 - 🌱 &nbsp;Learning: `Docker`, `Machine Learning APIs`, and `Motion Graphics for the Web`
 - 🧠 &nbsp;Topics I enjoy: `Next JS`, `Tailwind`, `Prisma`, `Storytelling`, and `Design Systems`
 
 - 🤝 &nbsp;Let’s connect on [LinkedIn](https://www.linkedin.com/in/novaka-saputra/)
 - ⚡ &nbsp;Fun fact: I turn debug logs into storyboards 🎥💻
-> 🎯 “Creative coding isn’t just about logic — it’s about emotion and experience too.”
+  > 🎯 “Creative coding isn’t just about logic — it’s about emotion and experience too.”
 
 <br/>
 
 <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31slu3q7kkwtwbh4kbijqckhbili&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31slu3q7kkwtwbh4kbijqckhbili&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31slu3q7kkwtwbh4kbijqckhbili&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color_cover=true&bar_color=53b14f">
   </a>
 </p>
 
@@ -101,6 +103,7 @@
 # &nbsp;
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue)
@@ -143,7 +146,6 @@ Friday                   20 commits          ██░░░░░░░░░�
 Saturday                 18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 %
 Sunday                   31 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.90 %
 ```
-
 
 📊 **This Week I Spent My Time On**
 
@@ -192,8 +194,6 @@ No activity tracked
 <br/>
 
 <hr/>
-
-
 
 ## 🗂️ Repository Stats
 
