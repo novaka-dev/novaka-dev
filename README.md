@@ -96,6 +96,8 @@
 
 # &nbsp;
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31slu3q7kkwtwbh4kbijqckhbili&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
